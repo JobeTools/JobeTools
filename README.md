@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **Twitch Tools** 
-- 🌱 I’m currently learning **C++, Javascript,HTML and a bit of SQL** 
+- 🌱 I’m currently learning **C++, Javascript,HTML** 
 
 ![**Jobe Tools**](https://cdn.discordapp.com/attachments/738014059064066048/964279055484588072/fight-me-come-at-bro.gif)
 
